@@ -37,7 +37,7 @@ jobs:
           GITHUB_PAGES: "true"
           # Replace with your final Pages URL, e.g.
           # https://<username>.github.io/<repo>
-          NEXT_PUBLIC_SITE_URL: "https://your-username.github.io/prashant-portfolio"
+          NEXT_PUBLIC_SITE_URL: "https://praShaanT11.github.io/prashant-portfolio"
         run: npm run build
 
       - name: Add .nojekyll
